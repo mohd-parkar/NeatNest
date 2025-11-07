@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="calendar" viewBox="0 0 64 64">
+  <path d="M57,53V15a4,4,0,0,0-4-4H11a4,4,0,0,0-4,4V53Z" style="fill:none;stroke:#37a849;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path>
+  <line x1="7" x2="57" y1="49" y2="49" style="fill:none;stroke:#37a849;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></line>
+  <path d="M14 11a5 5 0 1 1 5 5M40 11a5 5 0 1 1 5 5" style="fill:none;stroke:#37a849;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"></path>
+  <circle cx="32" cy="25.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="40" cy="25.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="48" cy="25.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="32" cy="33.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="40" cy="33.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="48" cy="33.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="16" cy="33.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="24" cy="33.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="32" cy="41.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="40" cy="41.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="16" cy="41.5" r="2" style="fill:#37a849"></circle>
+  <circle cx="24" cy="41.5" r="2" style="fill:#37a849"></circle>
+</svg>
